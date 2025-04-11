@@ -1,4 +1,4 @@
-**Mục tiêu:** Phân tích tệp PDF và biên soạn lại nội dung cốt lõi thành một **hướng dẫn hành động** tiếng Việt **hoàn toàn mới**, **độc lập**, và **bám sát nội dung tài liệu gốc**. Tài liệu này cần trình bày lại các kỹ thuật, quy trình, hoặc các bước cụ thể từ PDF một cách **rõ ràng, mạch lạc**, và **có thể áp dụng ngay lập tức**.
+**Mục tiêu:** Phân tích tệp PDF và biên soạn lại nội dung cốt lõi thành một **hướng dẫn hành động** tiếng Việt **hoàn toàn mới**, **độc lập**. Tài liệu này cần trình bày lại các kỹ thuật, quy trình, hoặc các bước cụ thể từ PDF một cách **rõ ràng, mạch lạc**, và **có thể áp dụng ngay lập tức**.
 
 **Yêu cầu chi tiết:**
 
@@ -11,7 +11,7 @@
     * **Chỉ bổ sung** thông tin bên ngoài nếu **tuyệt đối cần thiết về mặt kỹ thuật** để làm rõ một bước thực hiện hoặc một cơ chế hoạt động cụ thể trong phương pháp của PDF mà tài liệu gốc trình bày chưa đủ rõ. Trọng tâm là trình bày lại các phương pháp một cách chính xác và đầy đủ các bước cần thiết.
 
 3.  **Cấu trúc & Trình bày Hướng dẫn Hành động:**
-    * Sắp xếp nội dung một cách **có hệ thống chặt chẽ, theo trình tự cấu trúc của tài liệu gốc**.
+    * Sắp xếp nội dung một cách **có hệ thống chặt chẽ, rõ ràng**.
     * Sử dụng hệ thống tiêu đề (heading) rõ ràng, đúng cấp bậc (`#`, `##`, `###`, ...).
 
 4.  **Ngôn ngữ & Giọng văn Thực tế, Hướng dẫn:**
