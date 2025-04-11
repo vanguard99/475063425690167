@@ -1,4 +1,4 @@
-# Hướng Dẫn Hành Động: EasyPeasy
+# EasyPeasy
 
 ## Chương 1: Giới Thiệu Phương Pháp
 

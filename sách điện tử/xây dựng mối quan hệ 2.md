@@ -1,4 +1,4 @@
-# Hướng Dẫn Hành Động: Xây Dựng và Phát Huy Mối Quan Hệ Cứu Sinh
+# Xây Dựng và Phát Huy Mối Quan Hệ Cứu Sinh
 
 ## Phần 1: Hiểu Về Mối Quan Hệ Cứu Sinh
 

@@ -1,4 +1,4 @@
-# Hướng Dẫn Hành Động: Xây Dựng và Phát Triển Mạng Lưới Quan Hệ Bền Vững
+# Xây Dựng và Phát Triển Mạng Lưới Quan Hệ Bền Vững
 
 ## Phần 1: Thiết Lập Tư Duy Nền Tảng
 

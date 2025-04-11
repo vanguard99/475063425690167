@@ -1,4 +1,4 @@
-# Hướng Dẫn Hành Động: Thấu Hiểu và Vận Dụng Nhân Tính
+# Thấu Hiểu và Vận Dụng Nhân Tính
 
 ## Chương 1: Tháo bỏ mặt nạ đen tối, độc ác của bản chất con người
 
