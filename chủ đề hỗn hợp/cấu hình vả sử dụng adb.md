@@ -18,34 +18,35 @@
 
 ### 2. Cài Đặt ADB Trên Máy Tính
 
-* **Tải Công Cụ:**
-    1.  Truy cập trang chính thức: `https://developer.android.com/studio/releases/platform-tools`
-    2.  Tải xuống gói "SDK Platform-Tools" phù hợp với hệ điều hành của bạn (Windows, macOS, Linux).
-* **Giải Nén:**
-    1.  Giải nén tệp ZIP vừa tải vào một thư mục dễ truy cập (ví dụ: `C:\platform-tools` trên Windows, `/Users/ten_ban/platform-tools` trên macOS, `/home/ten_ban/platform-tools` trên Linux).
-* **Thêm Thư Mục ADB vào Biến Môi Trường PATH (Quan trọng):**
-    * **Windows:**
-        1.  Tìm kiếm "Environment Variables" trong Start Menu, chọn `Edit the system environment variables`.
-        2.  Trong cửa sổ System Properties, chọn `Environment Variables...`.
-        3.  Trong phần `System variables` (hoặc `User variables` nếu chỉ muốn dùng cho tài khoản của bạn), tìm và chọn biến `Path`, sau đó nhấn `Edit...`.
-        4.  Nhấn `New` và dán đường dẫn đầy đủ đến thư mục `platform-tools` bạn vừa giải nén (ví dụ: `C:\platform-tools`).
-        5.  Nhấn `OK` trên tất cả các cửa sổ.
-    * **macOS/Linux:**
-        1.  Mở Terminal.
-        2.  Chỉnh sửa tệp cấu hình shell của bạn (`.zshrc` cho Zsh, `.bashrc` hoặc `.bash_profile` cho Bash) bằng lệnh `nano ~/.zshrc` (hoặc tệp tương ứng).
-        3.  Thêm dòng sau vào cuối tệp (thay `/duong/dan/toi/platform-tools` bằng đường dẫn thực tế):
-            ```bash
-            export PATH="/duong/dan/toi/platform-tools:$PATH"
-            ```
-        4.  Lưu tệp (Ctrl+O trong nano, sau đó Enter) và thoát (Ctrl+X).
-        5.  Áp dụng thay đổi bằng lệnh `source ~/.zshrc` (hoặc tệp tương ứng).
-    * **macOS (Cách khác dùng Homebrew):**
-        1.  Mở Terminal.
-        2.  Chạy lệnh: `brew install --cask android-platform-tools`
-* **Kiểm Tra Cài Đặt:**
-    1.  **Mở một cửa sổ Terminal/Command Prompt/PowerShell MỚI.**
-    2.  Gõ lệnh: `adb version`
-    3.  Nếu hiển thị thông tin phiên bản (ví dụ: "Android Debug Bridge version...") là thành công.
+**. Trên Windows 10**
+
+1.  **Tải Platform Tools:**
+    * Truy cập: `https://developer.android.com/studio/releases/platform-tools`
+    * Tải bản mới nhất cho Windows.
+2.  **Giải nén:**
+    * Giải nén file ZIP vào một thư mục dễ nhớ (ví dụ: `C:\platform-tools`).
+3.  **Thêm vào Biến môi trường PATH:**
+    * Tìm `Environment Variables` trong Start Menu > `Edit the system environment variables` > `Environment Variables...`.
+    * Trong `System variables`, chọn `Path` > `Edit`.
+    * Nhấn `New` và thêm đường dẫn đến thư mục platform-tools (ví dụ: `C:\platform-tools`).
+    * Nhấn `OK` trên tất cả các cửa sổ.
+4.  **Kiểm tra:**
+    * Mở `Command Prompt` hoặc `PowerShell` mới.
+    * Gõ lệnh: `adb version`
+    * Nếu hiển thị phiên bản ADB là thành công.
+
+**. Trên Linux Mint (hoặc Ubuntu/Debian)**
+
+1.  **Mở Terminal:** Sử dụng phím tắt `Ctrl+Alt+T` hoặc tìm trong menu.
+2.  **Cập nhật danh sách gói:**
+    * Gõ lệnh: `sudo apt update`
+    * Nhập mật khẩu của bạn khi được yêu cầu.
+3.  **Cài đặt ADB và Fastboot:**
+    * Gõ lệnh: `sudo apt install adb android-tools-fastboot`
+    * Xác nhận cài đặt (nhấn `Y` nếu được hỏi).
+4.  **Kiểm tra:**
+    * Gõ lệnh: `adb version`
+    * Nếu hiển thị phiên bản ADB là thành công. (Không cần cấu hình PATH thủ công).
 
 ### 3. Kiểm Tra Kết Nối Điện Thoại
 
