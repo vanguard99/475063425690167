@@ -73,7 +73,7 @@
         ```
         *(Hoặc chỉ `sudo palera1n` vì rootless là mặc định)*
 2.  **Vào chế độ Recovery:** Palera1n sẽ cố gắng đưa iPhone vào Recovery.
-3.  **Vào chế độ DFU:** Làm theo **chính xác** hướng dẫn trên **Terminal 2** để vào DFU.
+3.  **Vào chế độ DFU:** **nhấn và giữ đồng thời nút nguồn và giảm âm lượng trong 10 giây, sau đó thả nút nguồn nhưng giữ nút giảm âm lượng thêm 5 giây** để vào DFU.
 4.  **Quá trình Jailbreak:** Chờ Palera1n hoàn tất quá trình exploit và khởi động lại iPhone. Không ngắt kết nối.
 
 #### 3.B. Jailbreak theo phương pháp ROOTFUL (fakeFS)
@@ -86,7 +86,7 @@
         *(Cờ `-c` để tạo fakeFS, `-f` để boot vào fakeFS)*
     * **Lưu ý:** Quá trình này sẽ **lâu hơn** Rootless vì cần tạo bản sao hệ thống (~10-15GB). Đảm bảo đủ dung lượng trống.
 2.  **Vào chế độ Recovery:** Palera1n sẽ cố gắng đưa iPhone vào Recovery.
-3.  **Vào chế độ DFU:** Làm theo **chính xác** hướng dẫn trên **Terminal 2** để vào DFU.
+3.  **Vào chế độ DFU:** **nhấn và giữ đồng thời nút nguồn và giảm âm lượng trong 10 giây, sau đó thả nút nguồn nhưng giữ nút giảm âm lượng thêm 5 giây** để vào DFU.
 4.  **Quá trình Jailbreak & Tạo FakeFS:** Chờ Palera1n hoàn tất. Quá trình này bao gồm cả việc tạo fakeFS và khởi động lại iPhone. Không ngắt kết nối.
 5.  **Các lần khởi động sau (Boot vào FakeFS đã tạo):** Đối với các lần khởi động lại iPhone sau này, bạn chỉ cần chạy lệnh:
     * **Trong Terminal 2:**
