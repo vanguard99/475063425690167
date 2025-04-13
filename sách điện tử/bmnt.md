@@ -1,4 +1,4 @@
-# BÍ MẬT NHÂN TÍNH
+# BMNT
 
 ## Phần 1: Tháo bỏ mặt nạ đen tối, độc ác của bản chất con người
 
