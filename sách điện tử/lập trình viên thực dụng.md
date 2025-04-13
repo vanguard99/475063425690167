@@ -1,8 +1,8 @@
-## Lập trình viên Thực dụng
+# Lập trình viên Thực dụng
 
 Hướng dẫn này cung cấp các nguyên tắc và kỹ thuật cốt lõi giúp bạn nâng cao kỹ năng lập trình, tư duy thiết kế và hiệu suất làm việc trong các dự án phần mềm.
 
-### Phần 1: Tư duy và Triết lý Cốt lõi
+## Phần 1: Tư duy và Triết lý Cốt lõi
 
 Nền tảng của một lập trình viên giỏi không chỉ nằm ở kỹ năng kỹ thuật mà còn ở thái độ và triết lý tiếp cận công việc.
 
@@ -58,7 +58,7 @@ Nền tảng của một lập trình viên giỏi không chỉ nằm ở kỹ n
         * **Phản hồi:** Luôn trả lời email, tin nhắn ngay cả khi chỉ để thông báo bạn sẽ phản hồi sau.
         * **Tài liệu hóa trong code:** Viết comment giải thích "tại sao" (mục đích, lý do) thay vì "làm thế nào" (code đã thể hiện điều đó). Giữ tài liệu và code gần nhau.
 
-### Phần 2: Tiếp cận Thực dụng
+## Phần 2: Tiếp cận Thực dụng
 
 Cách bạn tiếp cận thiết kế, code và giải quyết vấn đề sẽ quyết định chất lượng và khả năng bảo trì của phần mềm.
 
@@ -134,7 +134,7 @@ Cách bạn tiếp cận thiết kế, code và giải quyết vấn đề sẽ 
         * **Theo dõi và học hỏi:** Ghi lại các ước lượng và kết quả thực tế để cải thiện kỹ năng ước lượng theo thời gian.
         * **Ước lượng lịch trình dự án:** Sử dụng phương pháp phát triển lặp đi lặp lại (iterative development). Ước lượng lại lịch trình sau mỗi vòng lặp dựa trên kinh nghiệm thực tế.
 
-### Phần 3: Công cụ Cơ bản
+## Phần 3: Công cụ Cơ bản
 
 Việc thành thạo các công cụ cơ bản giúp tăng năng suất và hiệu quả làm việc.
 
@@ -210,7 +210,7 @@ Việc thành thạo các công cụ cơ bản giúp tăng năng suất và hi�
         * Sử dụng sổ tay để lưu trữ các ý tưởng bất chợt mà không làm gián đoạn công việc hiện tại.
         * Xem lại sổ tay định kỳ để ôn lại kiến thức, theo dõi tiến trình và có thể tìm thấy những hiểu biết mới.
 
-### Phần 4: Lập trình Thận trọng (Pragmatic Paranoia)
+## Phần 4: Lập trình Thận trọng (Pragmatic Paranoia)
 
 Lập trình viên thực dụng không chỉ phòng thủ trước lỗi của người khác mà còn trước lỗi của chính mình.
 
@@ -259,7 +259,7 @@ Lập trình viên thực dụng không chỉ phòng thủ trước lỗi của 
         * **Thiết kế để dễ thay thế:** Thay vì cố gắng thiết kế cho một tương lai không chắc chắn, hãy tập trung vào việc làm cho code hiện tại dễ dàng bị loại bỏ và thay thế khi cần.
         * **Nhận diện "Thiên nga đen":** Luôn ý thức rằng những sự kiện bất ngờ, khó dự đoán có thể xảy ra và làm thay đổi mọi kế hoạch.
 
-### Phần 5: Trong quá trình Code
+## Phần 5: Trong quá trình Code
 
 Ngay cả khi đang viết code, việc duy trì sự tập trung và áp dụng các thực hành tốt là rất quan trọng.
 
@@ -366,7 +366,7 @@ Ngay cả khi đang viết code, việc duy trì sự tập trung và áp dụng
         * **Nhất quán:** Sử dụng thuật ngữ một cách nhất quán trong toàn bộ dự án. Duy trì một bảng thuật ngữ (project glossary) nếu cần.
         * **Đổi tên khi Cần thiết:** Khi ý nghĩa hoặc vai trò của một thứ thay đổi, hoặc khi tên cũ trở nên không chính xác/gây hiểu lầm, hãy đổi tên nó ngay lập tức. Đảm bảo việc đổi tên dễ dàng (sử dụng công cụ refactoring của IDE).
 
-### Phần 6: Dự án Thực dụng
+## Phần 6: Dự án Thực dụng
 
 Các nguyên tắc thực dụng cũng áp dụng cho cách vận hành và quản lý dự án.
 

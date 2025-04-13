@@ -1,8 +1,8 @@
-## Tư duy Giải quyết Vấn đề cho Lập trình viên
+# Tư duy Giải quyết Vấn đề cho Lập trình viên
 
 Lập trình không chỉ là việc hiểu cú pháp ngôn ngữ, mà quan trọng hơn là khả năng vận dụng tư duy để giải quyết vấn đề một cách sáng tạo và hiệu quả. Hướng dẫn này cung cấp các chiến lược và kỹ thuật giúp bạn tiếp cận và giải quyết các bài toán lập trình một cách có hệ thống.
 
-### Phần 1: Các Chiến lược Giải quyết Vấn đề Tổng quát
+## Phần 1: Các Chiến lược Giải quyết Vấn đề Tổng quát
 
 Những kỹ thuật này có thể áp dụng cho hầu hết mọi loại vấn đề bạn gặp phải trong lập trình.
 
@@ -73,7 +73,7 @@ Những kỹ thuật này có thể áp dụng cho hầu hết mọi loại vấ
         * Khi cảm thấy bế tắc hoặc nản lòng, hãy tạm dừng. Nghỉ ngơi, đi dạo, hoặc chuyển sang làm một phần khác của vấn đề hoặc một vấn đề hoàn toàn khác.
         * Giải thích vấn đề cho người khác cũng là một cách để giảm bớt sự bế tắc.
 
-### Phần 2: Kỹ thuật Giải quyết Vấn đề với Các Cấu trúc Dữ liệu Cụ thể
+## Phần 2: Kỹ thuật Giải quyết Vấn đề với Các Cấu trúc Dữ liệu Cụ thể
 
 Ngoài các nguyên tắc chung, việc hiểu cách áp dụng tư duy giải quyết vấn đề vào các cấu trúc dữ liệu cụ thể là rất quan trọng.
 
@@ -133,7 +133,7 @@ Ngoài các nguyên tắc chung, việc hiểu cách áp dụng tư duy giải q
         * **Sử dụng Hàm Bao (Wrapper Function):** Khi cần thiết lập ban đầu hoặc khi giao diện public của lớp khác với giao diện hàm đệ quy cần (ví dụ: hàm đệ quy cần con trỏ nút, nhưng phương thức public không có tham số), hãy tạo một phương thức `public` đơn giản (wrapper) gọi đến một phương thức `private` thực hiện đệ quy với các tham số khởi tạo phù hợp.
         * **Khi nào Chọn Đệ quy:** Sử dụng đệ quy khi giải pháp lặp (dùng vòng lặp) trở nên phức tạp, đặc biệt là khi cần cơ chế quay lui hoặc xử lý cấu trúc phân nhánh tự nhiên như cây. Đối với xử lý tuần tự đơn giản (như duyệt mảng/danh sách liên kết theo thứ tự), giải pháp lặp thường hiệu quả và dễ hiểu hơn.
 
-### Phần 3: Tái sử dụng Code và Phát triển Kỹ năng
+## Phần 3: Tái sử dụng Code và Phát triển Kỹ năng
 
 Việc tận dụng công việc của người khác và liên tục học hỏi là yếu tố then chốt để phát triển.
 
@@ -163,7 +163,7 @@ Việc tận dụng công việc của người khác và liên tục học hỏ
         * **Học Thư viện/Framework Mới:** Thực hành với thư viện/framework trong các dự án thử nghiệm nhỏ trước khi dùng trong dự án lớn. Nghiên cứu tài liệu và code mẫu của chuyên gia.
         * **Tham gia Khóa học (Nếu phù hợp):** Khóa học có thể cung cấp cấu trúc, hướng dẫn và đánh giá, nhưng việc học thực sự diễn ra khi bạn tự thực hành.
 
-### Phần 4: Xây dựng Kế hoạch Tổng thể Cá nhân
+## Phần 4: Xây dựng Kế hoạch Tổng thể Cá nhân
 
 Mỗi lập trình viên là duy nhất. Việc hiểu rõ bản thân và có một kế hoạch tiếp cận vấn đề phù hợp sẽ tối đa hóa hiệu quả.
 
