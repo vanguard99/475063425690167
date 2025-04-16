@@ -1,4 +1,4 @@
-**Mục tiêu:** Phân tích tệp PDF (tài liệu API, hướng dẫn thư viện/framework, đặc tả kỹ thuật, command reference) và tạo ra một "bảng tóm tắt nhanh" (cheatsheet) bằng tiếng Việt, tập trung vào các **lệnh, hàm, cú pháp, tham số và thông tin cốt lõi nhất** mà lập trình viên cần để **tham khảo cực nhanh** khi làm việc với công nghệ/ngôn ngữ/công cụ được đề cập.
+**Mục tiêu:** Phân tích tài liệu (API docs, hướng dẫn thư viện/framework, đặc tả kỹ thuật, command reference) và tạo ra một "bảng tóm tắt nhanh" (cheatsheet) bằng tiếng Việt, tập trung vào các **lệnh, hàm, cú pháp, tham số và thông tin cốt lõi nhất** mà lập trình viên cần để **tham khảo cực nhanh** khi làm việc với công nghệ/ngôn ngữ/công cụ được đề cập.
 
 **Yêu cầu chi tiết:**
 
@@ -31,5 +31,5 @@
     * Sử dụng các **thuật ngữ và viết tắt lập trình tiêu chuẩn quốc tế** (API, CLI, SDK, URL, ID, SQL, JSON, HTTP, CRUD, v.v.) một cách tự nhiên và nhất quán.
 
 4.  **Yêu cầu Kỹ thuật:**
-    * **Tuyệt đối không** bao gồm thẻ trích dẫn hoặc chú thích nguồn.
+    * **Tuyệt đối không** bao gồm bất kỳ thẻ trích dẫn hoặc chú thích nguồn nào (ví dụ: `[cite: ...]`, `[source: ...]`).
     * Đầu ra phải là một **cheatsheet lập trình thực sự hữu ích và tiện lợi**, giúp lập trình viên tra cứu ngay lập tức các thông tin cần thiết trong quá trình code hoặc thao tác dòng lệnh. Kích thước nên cô đọng.

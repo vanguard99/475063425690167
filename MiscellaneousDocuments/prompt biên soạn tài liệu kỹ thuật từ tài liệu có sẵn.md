@@ -1,13 +1,13 @@
-**Mục tiêu:** Phân tích tệp PDF và tạo ra một **hướng dẫn kỹ thuật** hoàn toàn mới bằng tiếng Việt. Tài liệu này cần giải thích chủ đề một cách **toàn diện**, **chuyên sâu về mặt kỹ thuật**, dễ hiểu cho lập trình viên, đồng thời **mở rộng kiến thức thực tế** và cung cấp **ví dụ mã nguồn** hữu ích, vượt ra ngoài phạm vi của PDF gốc.
+**Mục tiêu:** Phân tích **tài liệu** và tạo ra một **hướng dẫn kỹ thuật** hoàn toàn mới bằng tiếng Việt. Tài liệu này cần giải thích chủ đề một cách **toàn diện**, **chuyên sâu về mặt kỹ thuật**, dễ hiểu cho lập trình viên, đồng thời **mở rộng kiến thức thực tế** và cung cấp **ví dụ mã nguồn** hữu ích, vượt ra ngoài phạm vi của **tài liệu gốc**.
 
 **Yêu cầu chi tiết:**
 
 1.  **Phân tích & Tái cấu trúc Cốt lõi Lập trình:**
-    * Xác định các khái niệm cốt lõi, kiến trúc hệ thống, thuật toán, quy trình xử lý, định nghĩa API, các hàm/lớp/phương thức chính, cấu trúc dữ liệu và các điểm kỹ thuật quan trọng khác trong PDF.
+    * Xác định các khái niệm cốt lõi, kiến trúc hệ thống, thuật toán, quy trình xử lý, định nghĩa API, các hàm/lớp/phương thức chính, cấu trúc dữ liệu và các điểm kỹ thuật quan trọng khác trong **tài liệu**.
     * Viết lại **hoàn toàn** nội dung bằng ngôn ngữ kỹ thuật rõ ràng, chính xác và cấu trúc logic của riêng bạn. Đây là việc biên soạn một hướng dẫn mới, không phải tóm tắt hay dịch thuật đơn thuần.
-    * **Tuyệt đối không** sử dụng các cụm từ tham chiếu trực tiếp đến nguồn như: "theo tài liệu", "PDF cho biết", v.v.
+    * **Tuyệt đối không** sử dụng các cụm từ tham chiếu trực tiếp đến nguồn như: "theo tài liệu", "tài liệu cho biết", v.v.
 
-2.  **Mở rộng Kiến thức Kỹ thuật (Vượt ngoài PDF):**
+2.  **Mở rộng Kiến thức Kỹ thuật (Vượt ngoài tài liệu):**
     * Làm phong phú nội dung bằng cách bổ sung:
         * Giải thích sâu hơn về *cơ chế hoạt động* bên trong (how it works internally), các khái niệm trừu tượng, hoặc các quyết định thiết kế (design choices) nếu có thể suy luận hoặc tìm kiếm thông tin đáng tin cậy.
         * So sánh/đối chiếu với các công nghệ, thư viện, framework, thuật toán, hoặc phương pháp tiếp cận **thay thế hoặc liên quan** khác (ví dụ: ưu/nhược điểm, khi nào nên chọn cái nào).
