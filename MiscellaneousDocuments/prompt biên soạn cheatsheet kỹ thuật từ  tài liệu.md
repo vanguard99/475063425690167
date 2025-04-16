@@ -16,6 +16,7 @@
 
 2.  **Định dạng Tối ưu cho Tham khảo Lập trình:**
     * Sử dụng định dạng **cực kỳ súc tích**, ưu tiên khả năng quét nhanh (scanability). Trình bày thông tin một cách trực quan, dễ tìm.
+    * Sử dụng hệ thống tiêu đề (heading) rõ ràng, đúng cấp bậc (`#`, `##`, `###`, ...).
     * **Bắt buộc sử dụng định dạng mã nguồn chuẩn:**
         * Sử dụng `inline code` (dấu backtick đơn \`) cho tất cả tên hàm, lệnh, tham số, biến, kiểu dữ liệu, tên file, giá trị chuỗi cụ thể, v.v. khi đề cập trong văn bản.
         * Sử dụng **Khối mã (Code blocks)** (dùng ba dấu backtick ```, nếu có thể hãy chỉ định ngôn ngữ, ví dụ: ```python, ```javascript, ```bash, ```sql) cho các ví dụ cú pháp nhiều dòng, cấu hình mẫu, hoặc các đoạn mã minh họa (giữ chúng thật ngắn gọn).
