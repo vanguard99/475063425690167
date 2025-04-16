@@ -1,4 +1,4 @@
-# Hướng dẫn Kỹ thuật: Kế thừa trong Lập trình Hướng đối tượng với Java
+# KẾ THỪA
 
 Hướng dẫn này cung cấp kiến thức toàn diện về cơ chế **kế thừa (Inheritance)** trong Java, một trong những trụ cột của lập trình hướng đối tượng (Object-Oriented Programming - OOP). Chúng ta sẽ khám phá cách kế thừa hoạt động, cách triển khai, các khái niệm liên quan như ghi đè phương thức, đa hình, và các phương pháp thực hành tốt nhất.
 

@@ -1,4 +1,4 @@
-# Hướng dẫn Kỹ thuật: Viết Mã Sạch (Clean Code) trong Java
+# CLEAN CODE
 
 ## 1\. Giới thiệu: Clean Code là gì và Tại sao nó Quan trọng?
 

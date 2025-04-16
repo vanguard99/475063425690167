@@ -1,4 +1,4 @@
-# Hướng dẫn Kiểm soát Truy cập và Tổ chức Mã nguồn trong Java
+# KIỂM SOÁT QUYỀN TRUY CẬP
 
 ## 1. Giới thiệu về Kiểm soát Truy cập và Tổ chức Mã nguồn
 

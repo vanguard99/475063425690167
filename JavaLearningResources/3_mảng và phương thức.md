@@ -1,4 +1,4 @@
-# Hướng dẫn Toàn diện về Mảng và Phương thức trong Java
+# MẢNG VÀ PHƯƠNG THỨC
 
 ## 1. Giới thiệu
 

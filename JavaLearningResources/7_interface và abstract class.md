@@ -1,4 +1,4 @@
-# Hướng dẫn Kỹ thuật: Interface và Abstract Class trong Java
+# INTERFACE VÀ ABSTRACT CLASS
 
 ## 1\. Giới thiệu
 

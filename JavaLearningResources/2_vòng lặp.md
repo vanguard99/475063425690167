@@ -1,4 +1,4 @@
-# Hướng dẫn toàn diện về Vòng lặp trong Java
+# VÒNG LẶP
 
 ## 1. Giới thiệu về Vòng lặp (Introduction to Loops)
 

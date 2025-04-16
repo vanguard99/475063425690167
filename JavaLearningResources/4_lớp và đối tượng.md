@@ -1,4 +1,4 @@
-# Hướng dẫn Lập trình Hướng đối tượng với Java: Lớp và Đối tượng
+# LỚP VÀ ĐỐI TƯỢNG
 
 ## 1. Giới thiệu Lập trình Hướng đối tượng (OOP) và Java
 

@@ -1,6 +1,4 @@
-# Hướng dẫn Lập trình Java: Nền tảng Cốt lõi
-
-Tài liệu này cung cấp cái nhìn tổng quan và chuyên sâu về các khái niệm nền tảng của ngôn ngữ lập trình Java, được thiết kế đặc biệt cho các lập trình viên muốn bắt đầu hoặc củng cố kiến thức cơ bản. Chúng ta sẽ khám phá từ kiến trúc cơ bản, cú pháp cốt lõi đến các cấu trúc điều khiển luồng thực thi chương trình.
+# NỀN TẢNG CƠ BẢN
 
 ## 1. Giới thiệu về Java
 
